@@ -1,0 +1,24 @@
+{
+  "name": "trip-cost",
+  "version": "1.0.0",
+  "description": "track your travel expenses",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tepexic/trip-cost.git"
+  },
+  "author": "tepexic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tepexic/trip-cost/issues"
+  },
+  "homepage": "https://github.com/Tepexic/trip-cost#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^3.6.1"
+  }
+}
